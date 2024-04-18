@@ -12,6 +12,6 @@
 2. ได้รู้เกี่ยวกับวิธีการสร้างเกม
 
 ## Game Demo
-[![Video: ]](https://www.youtube.com/watch?v=i5GOQx_vsvw)
+[!Youtube Video](https://www.youtube.com/watch?v=i5GOQx_vsvw)
 
 Unreal Engine Version 5.3.2
